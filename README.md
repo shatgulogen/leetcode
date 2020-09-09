@@ -7,9 +7,9 @@ I picked Java for tackling the problems. You can also choose C++ or Python, whic
 
 Some of the books I use alongside and the ones that I recommend are:
 
-#Cracking the Coding Interview, 6th Edition (Java)
-#Elements of Programming Interviews (Java version)
-#Algorithms, 4th edition by Sedgewick and Wayne
+*Cracking the Coding Interview, 6th Edition (Java)
+*Elements of Programming Interviews (Java version)
+*Algorithms, 4th edition by Sedgewick and Wayne
 
 
 Cheers and best of luck to you!
