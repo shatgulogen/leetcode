@@ -19,7 +19,7 @@ class Solution {
                 lo++; // when the currentsum is smaller than target, we move the lo pointer to the right so the number will increase and target will increase too
             }
     }
-        return new int[]{2};
+        return new int[]{2}; //or return new int[]{-1, -1}
 }
 }
 
